@@ -1,2 +1,2 @@
-# AI_Girlfriend_or_Boyfriend
+#Joi
 This is what I wanna do in the future
